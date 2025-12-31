@@ -58,17 +58,4 @@ Always eager to learn, collaborate, and grow as a developer.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mondalsurojit&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondalsurojit&layout=compact&theme=dark&hide_border=true" />
-</p>
-
 ✨ *Always open to learning, collaboration, and building impactful products.*
