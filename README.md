@@ -71,14 +71,4 @@ Always eager to learn, collaborate, and grow as a developer.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mondalsurojit&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
-
-## 📌 Pinned Repositories
-⭐ Please pin at least **3 client-side repositories** on your GitHub profile:
-- Garments Order & Production Tracker System
-- Movie Master Pro
-- Indoor Plant Care & Store
-
----
-
 ✨ *Always open to learning, collaboration, and building impactful products.*
